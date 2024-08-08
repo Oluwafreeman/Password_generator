@@ -31,3 +31,5 @@ shuffled_password = ""
 for char in new_password:
     shuffled_password += char
 print(f"Here is your shuffled_password: {shuffled_password}")
+
+# just decided to check something out on github repor nothing was added
